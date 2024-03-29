@@ -1,0 +1,13 @@
+#mainContainer{
+display: grid;
+grid-template-columns: repeat(2,1fr);
+margin: 30px;
+gap:50px;
+/* font-size: 30px; */
+}
+
+img{
+    width: 105%;
+    height:500px;
+    gap:10px;
+}
